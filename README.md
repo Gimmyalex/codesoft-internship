@@ -1,4 +1,4 @@
-This is my codesoft internship readme file where I gave various assignments for Python programming and completed them without fail.
+This is my codsoft internship readme file where I gave various assignments for Python programming and completed them without fail.
 
 TO-DO LIST
 TASK 1
